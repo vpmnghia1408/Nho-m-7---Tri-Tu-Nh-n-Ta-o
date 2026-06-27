@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+pillow>=10.0.0
+numpy>=1.24.0
+# Chọn 1 trong 2 framework bên dưới tuỳ mô hình bạn dùng:
+tensorflow>=2.13.0       # Nếu dùng mô hình Keras (.h5)
+# torch>=2.0.0           # Nếu dùng mô hình PyTorch (.pth)
+# torchvision>=0.15.0    # Kèm theo torch
