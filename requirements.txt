@@ -1,0 +1,7 @@
+# Thư viện cần cho phần Người 2 (Data Pre-processor)
+numpy>=1.26
+opencv-python>=4.9
+# tensorflow chỉ cần khi dùng create_augmenter() (Keras ImageDataGenerator)
+tensorflow>=2.16
+# matplotlib dùng cho script demo để xem trước ảnh
+matplotlib>=3.8
